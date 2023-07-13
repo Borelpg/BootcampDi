@@ -1,0 +1,14 @@
+.navbar a{
+    color: aliceblue;
+    display: flex;
+    justify-content: space-between;
+    padding: 10px;
+}
+.navbar button{
+    background-color: blue;
+    border: none;
+    padding: 6px;
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+}

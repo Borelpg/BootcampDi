@@ -1,0 +1,41 @@
+.sign{
+    width: 80%;
+    height: 10%;
+    display: flex;
+    justify-content: end;
+    align-items: end;
+}
+.haut{
+   display:flex;
+   margin: 10;
+   }
+.millieu{
+    background-image: url(eau.avif);
+    height: 10%;
+    padding: 10%;
+    display: grid;
+    justify-content: center;
+    align-items: center;
+
+}
+.text{
+    display: grid;
+    justify-content: center;
+    align-items: center; 
+       
+}
+.emaill{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 50;
+    
+}
+
+.emaill button , .sign button{
+    background-color: blue;
+}
+.tv{
+    border-style: solid;
+    border-color: ;
+}
